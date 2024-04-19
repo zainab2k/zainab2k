@@ -7,7 +7,7 @@
 - 👀 I’m interested in web development, machine learning, and data science.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects related to web development or data science.
-- 📫 How to reach me: [Insert your preferred contact method here]
+- 📫 How to reach me: ........
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new technologies and experimenting with coding projects.
 
