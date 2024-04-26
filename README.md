@@ -21,9 +21,7 @@ I'm Zainab, a passionate learner and aspiring web developer with a keen interest
 - **Machine Learning:** I'm fascinated by the potential of machine learning algorithms to extract insights from data and solve complex problems.
 - **Data Science:** I'm eager to explore the realm of data science to analyze datasets, derive meaningful conclusions, and make data-driven decisions.
 
-## Let's Collaborate!
 
-If you're working on an exciting project related to web development, machine learning, or data science, I'd love to collaborate! Feel free to reach out to me via [insert your preferred contact method here].
 
 ---
 
